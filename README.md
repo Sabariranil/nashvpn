@@ -34,18 +34,18 @@
 
 | Протокол | Файл | Кол-во ключей | Описание |
 | :--- | :--- | :--- | :--- |
-| **VLESS** | [📂 `vless.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/vless.txt) | **211 248** 🔥 | Самый популярный |
-| **VMess** | [📂 `vmess.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/vmess.txt) | **10 646** | Классический протокол V2Ray |
-| **Shadowsocks** | [📂 `ss.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/ss.txt) | **11 893** | Старый добрый Shadowsocks |
-| **Trojan** | [📂 `trojan.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/trojan.txt) | **8 951** | Имитация HTTPS трафика |
-| **Hysteria 2** | [📂 `hysteria2.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/hysteria2.txt) | **1 662** 🚀 | Быстрый протокол на базе UDP |
-| **Hysteria 1** | [📂 `hysteria.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/hysteria.txt) | **49** | Первая версия Hysteria |
-| **Hy2** | [📂 `hy2.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/hy2.txt) | **842** | Альтернативная запись Hysteria 2 |
-| **SSR** | [📂 `ssr.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/ssr.txt) | **31** | ShadowsocksR |
-| **TUIC** | [📂 `tuic.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/tuic.txt) | **26** | Протокол на базе QUIC |
+| **VLESS** | [📂 `vless.txt`](https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/vless.txt) | **211 248** 🔥 | Самый популярный |
+| **VMess** | [📂 `vmess.txt`](https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/vmess.txt) | **10 646** | Классический протокол V2Ray |
+| **Shadowsocks** | [📂 `ss.txt`](https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/ss.txt) | **11 893** | Старый добрый Shadowsocks |
+| **Trojan** | [📂 `trojan.txt`](https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/)trojan.txt) | **8 951** | Имитация HTTPS трафика |
+| **Hysteria 2** | [📂 `hysteria2.txt`](https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/hysteria2.txt) | **1 662** 🚀 | Быстрый протокол на базе UDP |
+| **Hysteria 1** | [📂 `hysteria.txt`](https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/hysteria.txt) | **49** | Первая версия Hysteria |
+| **Hy2** | [📂 `hy2.txt`](https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/hy2.txt) | **842** | Альтернативная запись Hysteria 2 |
+| **SSR** | [📂 `ssr.txt`](https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/ssr.txt) | **31** | ShadowsocksR |
+| **TUIC** | [📂 `tuic.txt`](https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/tuic.txt) | **26** | Протокол на базе QUIC |
 
 > *Статистика обновлена на основе последней обработки базы.*
-
+https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/vmess.txt
 ---
 
 ## 🚀 Как использовать
