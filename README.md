@@ -34,15 +34,15 @@
 
 | Протокол | Файл | Кол-во ключей | Описание |
 | :--- | :--- | :--- | :--- |
-| **VLESS** | [📂 `vless.txt`](./vless.txt) | **211 248** 🔥 | Самый популярный |
-| **VMess** | [📂 `vmess.txt`](./vmess.txt) | **10 646** | Классический протокол V2Ray |
-| **Shadowsocks** | [📂 `ss.txt`](./ss.txt) | **11 893** | Старый добрый Shadowsocks |
-| **Trojan** | [📂 `trojan.txt`](./trojan.txt) | **8 951** | Имитация HTTPS трафика |
-| **Hysteria 2** | [📂 `hysteria2.txt`](./hysteria2.txt) | **1 662** 🚀 | Быстрый протокол на базе UDP |
-| **Hysteria 1** | [📂 `hysteria.txt`](./hysteria.txt) | **49** | Первая версия Hysteria |
-| **Hy2** | [📂 `hy2.txt`](./hy2.txt) | **842** | Альтернативная запись Hysteria 2 |
-| **SSR** | [📂 `ssr.txt`](./ssr.txt) | **31** | ShadowsocksR |
-| **TUIC** | [📂 `tuic.txt`](./tuic.txt) | **26** | Протокол на базе QUIC |
+| **VLESS** | [📂 `vless.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/vless.txt) | **211 248** 🔥 | Самый популярный |
+| **VMess** | [📂 `vmess.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/vmess.txt) | **10 646** | Классический протокол V2Ray |
+| **Shadowsocks** | [📂 `ss.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/ss.txt) | **11 893** | Старый добрый Shadowsocks |
+| **Trojan** | [📂 `trojan.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/trojan.txt) | **8 951** | Имитация HTTPS трафика |
+| **Hysteria 2** | [📂 `hysteria2.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/hysteria2.txt) | **1 662** 🚀 | Быстрый протокол на базе UDP |
+| **Hysteria 1** | [📂 `hysteria.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/hysteria.txt) | **49** | Первая версия Hysteria |
+| **Hy2** | [📂 `hy2.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/hy2.txt) | **842** | Альтернативная запись Hysteria 2 |
+| **SSR** | [📂 `ssr.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/ssr.txt) | **31** | ShadowsocksR |
+| **TUIC** | [📂 `tuic.txt`](https://github.com/begugla0/nashvpn/raw/refs/heads/main/githubmirror/tuic.txt) | **26** | Протокол на базе QUIC |
 
 > *Статистика обновлена на основе последней обработки базы.*
 
